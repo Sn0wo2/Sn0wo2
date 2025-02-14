@@ -1,6 +1,6 @@
-### Hello
+### 你好喵
 
-[![Github Commit Snake](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)](##)
+[![Github Commit Snake](https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/output/github-contribution-grid-snake.svg)](##)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Sn0wo2)
 
