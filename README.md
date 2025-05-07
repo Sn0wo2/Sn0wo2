@@ -1,5 +1,5 @@
-### 滴~你已被记录
-#### Beep~ You've been logged.
+### Beep~ You've been logged.
+#### 滴~你已被记录
 
 [Please treat me to Pin Haofan / 请我吃拼好饭](https://afdian.com/a/Me0wo)
 
@@ -9,4 +9,4 @@
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,bots,gcp,git,github,githubactions,gmail,go,gradle,html,idea,java,linux,md,maven,mongodb,mysql,nginx,nodejs,npm,postman,pycharm,py,redis,spring,twitter,vscode,vue,webstorm,windows)
+![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,bots,gcp,git,github,githubactions,gmail,go,gradle,html,idea,java,js,linux,md,maven,mongodb,mysql,nginx,nodejs,npm,postgres,postman,pycharm,py,redis,spring,sqlite,twitter,ts,ubuntu,vscode,vim,vite,vue,webstorm,windows)
