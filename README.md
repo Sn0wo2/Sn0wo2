@@ -9,4 +9,4 @@
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discord,bots,express,fastapi,gcp,git,github,githubactions,gmail,go,gradle,html,idea,java,js,linux,md,maven,mongodb,mysql,nginx,nodejs,npm,postgres,postman,pycharm,py,react,redis,replit,rider,spring,sqlite,twitter,ts,kotlin,ubuntu,vscode,vim,vite,vue,webstorm,windows)
+![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discord,bots,docker,express,fastapi,gcp,git,github,githubactions,gmail,go,gradle,html,idea,java,js,linux,md,maven,mongodb,mysql,nginx,nodejs,npm,postgres,postman,pycharm,py,react,redis,replit,rider,spring,sqlite,twitter,ts,kotlin,ubuntu,vscode,vim,vite,vue,webstorm,windows)
