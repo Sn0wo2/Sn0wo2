@@ -1,12 +1,19 @@
 ### Beep~ You've been logged.
 #### 滴~你已被记录
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=monokai&include_all_commits=true&count_private=true&hide_rank=true&layout=compact&icon_color=586069&title_color=a0a9af" width="300px" height="200px" />
+
 ![Counts](https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=gelbooru&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
 
 ---
 
 #### GPG ID
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=monokai&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&icon_color=586069&title_color=a0a9af" width="300px" height="200px" />
+
  - `CD3A0F19D1FC2932`
+
+---
 
 #### Sponsor / 赞助
 >[Please treat me to Pin Haofan / 请我吃拼好饭](https://afdian.com/a/Me0wo)
