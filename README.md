@@ -6,30 +6,32 @@
 
 ---
 
-## 📈 Stats & Languages
+## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=monokai&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&icon_color=586069&title_color=a0a9af" height="150" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=monokai&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=586069&title_color=a0a9af" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" height="165" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" height="165" />
 </div>
 
 ---
 
-## 🔐 GPG ID
+## 🔐 GPG Identity
 
 ```bash
 CD3A0F19D1FC2932
-````
+```
 
 ---
 
-## ☕ Sponsor | 赞助
+## 🎯 Technical Proficiencies
 
-> [💰 请我吃拼好饭](https://afdian.com/a/Me0wo)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,nodejs,kotlin,py,cs,dart,md,regex,vite,react,vue,html,css,svg,flutter,ktor,spring,express,fastapi,redis,mysql,postgres,sqlite,mongodb,cloudflare,workers,nginx,windows,linux,ubuntu,bash,replit,gcp,git,github,githubactions,idea,azul,webstorm,pycharm,rider,vscode,visualstudio,vim,maven,gradle,postman,discord,twitter,bots,gmail,bash,flutter,nodejs,npm" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/output/github-contribution-grid-snake.svg" />
@@ -37,12 +39,9 @@ CD3A0F19D1FC2932
 
 ---
 
-## 🧩 Skills
+## ☕ Support My Work
 
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://skillicons.dev/icons?i=azul,bash,cs,cloudflare,css,dart,discord,bots,docker,express,fastapi,flutter,gcp,git,github,githubactions,gmail,go,gradle,html,idea,java,js,linux,md,maven,mongodb,mysql,nginx,nodejs,npm,postgres,postman,pycharm,py,react,redis,regex,replit,rider,sass,spring,sqlite,svg,twitter,ts,kotlin,ktor,ubuntu,vscode,vim,visualstudio,vite,vue,webstorm,windows,workers" />
-</p>
-
+> [💖 Afdian](https://afdian.com/a/Me0wo)  
 ---
 
 <p align="center">
