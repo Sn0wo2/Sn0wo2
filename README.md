@@ -10,10 +10,10 @@
 
 ## 📊 GitHub Stats & Languages
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" width="49%" />
-</p>
+</div>
 
 ---
 
