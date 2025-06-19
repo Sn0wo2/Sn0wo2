@@ -26,7 +26,7 @@ CD3A0F19D1FC2932
 ## 🎯 Technical Proficiencies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,nodejs,kotlin,py,cs,dart,md,regex,vite,react,vue,html,css,svg,flutter,ktor,spring,express,fastapi,redis,mysql,postgres,sqlite,mongodb,cloudflare,workers,nginx,windows,linux,ubuntu,bash,replit,gcp,git,github,githubactions,idea,azul,webstorm,pycharm,rider,vscode,visualstudio,vim,maven,gradle,postman,discord,twitter,bots,gmail,bash,flutter,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,nodejs,kotlin,py,cs,dart,md,regex,npm,vite,react,vue,html,css,svg,flutter,ktor,spring,express,fastapi,redis,mysql,postgres,sqlite,mongodb,cloudflare,workers,nginx,windows,linux,ubuntu,bash,replit,gcp,git,github,githubactions,idea,azul,webstorm,pycharm,rider,vscode,visualstudio,vim,maven,gradle,postman,discord,twitter,bots,gmail" />
 </p>
 
 ---
