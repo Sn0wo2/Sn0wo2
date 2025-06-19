@@ -1,6 +1,6 @@
 <img src="https://img-302.vercel.app/api/result" align="right" width="280" />
 
-<h1 align="center">✨ Beep~ You've been logged<br><sub>滴~ 你已被记录</sub></h1>
+<h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
 <p align="center">
   <img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="180" />
