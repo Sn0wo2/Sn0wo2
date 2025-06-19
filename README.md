@@ -1,4 +1,4 @@
-<img src="https://img-302.vercel.app/api/go" align="right" width="280" />
+<img src="https://img-302.vercel.app/api/result" align="right" width="280" />
 
 <h1 align="center">✨ Beep~ You've been logged<br><sub>滴~ 你已被记录</sub></h1>
 
