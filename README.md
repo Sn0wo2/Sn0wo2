@@ -10,11 +10,18 @@
 
 ## 📊 GitHub Stats & Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8" width="49%" />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=8">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=8" width="49%" />
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=8">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=8" width="49%" />
+  </picture>
+  
 ---
 
 ## 🔐 GPG Identity
