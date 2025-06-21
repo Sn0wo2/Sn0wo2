@@ -1,4 +1,4 @@
-<img src="https://character.me0wo.top" align="right" width="280" />
+<img src="https://char.me0wo.top/character" align="right" width="280" />
 
 <h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
