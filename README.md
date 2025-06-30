@@ -49,9 +49,7 @@
 
 ## ☕ Support My Work
 
-<p align="center">
-  <a href="https://afdian.com/a/Me0wo">💖 爱发电</a>
-</p>
+[![afdian](https://static.afdiancdn.com/static/img/logo/logo.png)](https://afdian.com/a/Me0wo)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
