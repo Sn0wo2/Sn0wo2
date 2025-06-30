@@ -26,9 +26,8 @@
 
 ## 🔐 GPG Identity
 
-```bash
-CD3A0F19D1FC2932
-```
+- **Key ID**: `CD3A0F19D1FC2932`
+- **Fingerprint**: `F632A7DFE5A510ECDD977DA5CD3A0F19D1FC2932`
 
 ---
 
