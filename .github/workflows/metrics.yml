@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: Sn0wo2
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_ratio: yes
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_traffic: yes
+          plugin_lines: yes
+          plugin_lines_delay: 30
