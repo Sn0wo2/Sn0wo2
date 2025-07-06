@@ -25,7 +25,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the out/snake branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: main
+          target_branch: out/snake
           build_dir: dist
           commit_message: "ci(snake): deploy"
         env:
