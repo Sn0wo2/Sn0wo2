@@ -1,9 +1,9 @@
-<img src="https://char.me0wo.top/character" align="right" width="280" />
+<img src="https://char.me0wo.top/character" align="right" width="280"  alt="character"/>
 
 <h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="180" />
+  <img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="180"  alt="count"/>
 </p>
 
 ---
@@ -34,16 +34,18 @@
 ## 🎯 Technical Proficiencies
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,typescript,javascript,kotlin,python,rust,csharp,c,cpp,zig,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,windowsappsdk,flutter,nodejs,bun,gnu,vite,pnpm,npm,maven,gradle,esbuild,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,windows,linux,ubuntu,debian,nixos,git,nginx,apache,podman,docker,vmware,cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok,goland,intellijidea,webstorm,pycharm,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus,windsurf,trae,cursor,chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface,websocket,prettier,eslint,jest,jwt,hoppscotch,postman,apifox,swagger,powershell,bash,xshell,xftp,navicat,edge,chromium,canva,capcut,bing,replit,googledrive,googlecolaboratory,gmail,obs,steam,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge" />
+  <img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,typescript,javascript,kotlin,python,rust,csharp,c,cpp,zig,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,windowsappsdk,flutter,nodejs,bun,gnu,vite,pnpm,npm,maven,gradle,esbuild,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,windows,linux,ubuntu,debian,nixos,git,nginx,apache,podman,docker,vmware,cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok,goland,intellijidea,webstorm,pycharm,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus,windsurf,trae,cursor,chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface,websocket,prettier,eslint,jest,jwt,hoppscotch,postman,apifox,swagger,powershell,bash,xshell,xftp,navicat,edge,chromium,canva,capcut,bing,replit,googledrive,googlecolaboratory,gmail,obs,steam,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge"  alt="skills"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/output/github-contribution-grid-snake.svg" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg">
+    <img alt="Top Languages" src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg" />
+  </picture>
 
 ---
 
@@ -52,5 +54,5 @@
 [![afdian](https://static.afdiancdn.com/static/img/logo/logo.png)](https://afdian.com/a/Me0wo)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="waving"/>
 </p>

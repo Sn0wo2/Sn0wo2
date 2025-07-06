@@ -8,7 +8,7 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -21,8 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
+
       - name: push github-contribution-grid-snake.svg to the out/snake branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
