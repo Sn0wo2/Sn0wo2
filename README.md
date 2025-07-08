@@ -34,7 +34,7 @@
 ## 🎯 Technical Proficiencies
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,typescript,javascript,kotlin,python,rust,csharp,c,cpp,zig,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,windowsappsdk,flutter,nodejs,bun,gnu,vite,pnpm,npm,maven,gradle,esbuild,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,windows,linux,ubuntu,debian,nixos,git,nginx,apache,podman,docker,vmware,cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok,goland,intellijidea,webstorm,pycharm,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus,windsurf,trae,cursor,chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface,websocket,prettier,eslint,jest,jwt,hoppscotch,postman,apifox,swagger,powershell,bash,xshell,xftp,navicat,edge,chromium,canva,capcut,bing,replit,googledrive,googlecolaboratory,gmail,obs,steam,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge"  alt="skills"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,typescript,javascript,kotlin,python,rust,csharp,c,cpp,zig,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,windowsappsdk,flutter,nodejs,bun,gnu,vite,pnpm,npm,maven,gradle,esbuild,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,windows,linux,ubuntu,debian,nixos,git,nginx,apache,podman,docker,vmware,cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok,goland,intellijidea,webstorm,pycharm,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus,windsurf,trae,cursor,chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface,websocket,prettier,eslint,jest,jwt,hoppscotch,postman,apifox,swagger,powershell,bash,xshell,xftp,navicat,edge,chromium,canva,capcut,bing,replit,googledrive,googlecolaboratory,gmail,obs,steam,slack,stackoverflow,discord,youtube,x,twitter,telegram,adobeillustrator,curseforge"  alt="skills"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg">
-    <img alt="Top Languages" src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg" />
+    <img alt="Snake" src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg" />
   </picture>
 
 ---
