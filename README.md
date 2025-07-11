@@ -16,14 +16,14 @@
   <summary><h2>📊 GitHub Stats & Languages</h2></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=8">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=8" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=16">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=16" width="50%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=8">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=8" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16" width="50%" />
 </picture>
 
 </details>
@@ -44,31 +44,49 @@
   <summary><h2>🎯 Technical Proficiencies</h2></summary>
 
 <h3>⚙️ Backend Languages, Libraries & Tools</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,kotlin,python,powershell,bash,rust,csharp,c,cpp,zig,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,nodejs,bun,gnu,maven,gradle,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,nginx,apache,jenkins,websocket,jwt,hoppscotch,postman,apifox,swagger,navicat"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,kotlin,python,powershell,bash,rust,csharp,c,cpp,zig,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,nodejs,bun,gnu,maven,gradle,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,nginx,apache,jenkins,websocket,jwt,hoppscotch,postman,apifox,swagger,navicat" alt="skills"/></picture>
+</div>
 
 <h3>🌐 Frontend Languages, Libraries & Tools</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=typescript,javascript,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,canva,windowsappsdk,flutter,vite,pnpm,npm,esbuild,prettier,eslint,jest,edge,chromium"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=typescript,javascript,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,canva,windowsappsdk,flutter,vite,pnpm,npm,esbuild,prettier,eslint,jest,edge,chromium" alt="skills"/></picture>
+</div>
 
 <h3>☁️ Cloud Services & Infrastructure</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok" alt="skills"/></picture>
+</div>
 
 <h3>📝 IDEs & Editors</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus" alt="skills"/></picture>
+</div>
 
 <h3>🤖 AI</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface" alt="skills"/></picture>
+</div>
 
 <h3>📦 Virtualization & Containers</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=podman,docker,vmware"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=podman,docker,vmware" alt="skills"/></picture>
+</div>
 
 <h3>🔧 Tools</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=git,xshell,xftp,veracrypt"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=git,xshell,xftp,veracrypt" alt="skills"/></picture>
+</div>
 
 <h3>💻 Operating Systems</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=windows,linux,ubuntu,debian,nixos"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=windows,linux,ubuntu,debian,nixos" alt="skills"/></picture>
+</div>
 
 <h3>🧩 Others</h3>
-<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=bing,steam,replit,googledrive,googlecolaboratory,gmail,obs,adobeillustrator,capcut,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge"  alt="skills"/></picture>
+<div style="width: 80%">
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=bing,steam,replit,googledrive,googlecolaboratory,gmail,obs,adobeillustrator,capcut,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge" alt="skills"/></picture>
+</div>
 
 <h6 align="center">
   (Tip: Ranked by familiarity)
