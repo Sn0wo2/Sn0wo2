@@ -1,9 +1,13 @@
-<picture><img src="https://char.me0wo.top/character" align="right" width="280"  alt="character"/></picture>
+<p align="center">
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=header" alt="waving"/></picture>
+</p>
+
+<picture><img src="https://char.me0wo.top/character" align="right" width="256"  alt="character"/></picture>
 
 <h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
 <p align="center">
-  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="180"  alt="count"/></picture>
+  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="200"  alt="count"/></picture>
 </p>
 
 ---
@@ -95,5 +99,5 @@
 </details>
 
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=128§ion=footer" alt="waving"/></picture>
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=footer" alt="waving"/></picture>
 </p>
