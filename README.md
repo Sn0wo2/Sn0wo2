@@ -9,7 +9,7 @@
 ---
 
 <details open>
-  <summary><h2 style="display: inline;">📊 GitHub Stats & Languages</h2></summary>
+  <summary><h2>📊 GitHub Stats & Languages</h2></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=8">
@@ -27,7 +27,7 @@
 ---
 
 <details open>
-  <summary><h2 style="display: inline;">🔐 GPG Identity</h2></summary>
+  <summary><h2>🔐 GPG Identity</h2></summary>
 
 - **Key ID**: `CD3A0F19D1FC2932`
 - **Fingerprint**: `F632A7DFE5A510ECDD977DA5CD3A0F19D1FC2932`
@@ -37,18 +37,45 @@
 ---
 
 <details open>
-  <summary><h2 style="display: inline;">🎯 Technical Proficiencies</h2></summary>
+  <summary><h2>🎯 Technical Proficiencies</h2></summary>
 
-<p align="center">
-  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,typescript,javascript,kotlin,python,rust,csharp,c,cpp,zig,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,windowsappsdk,flutter,nodejs,bun,gnu,vite,pnpm,npm,maven,gradle,esbuild,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,windows,linux,ubuntu,debian,nixos,git,nginx,apache,podman,docker,vmware,jenkins,cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok,goland,intellijidea,webstorm,pycharm,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus,windsurf,trae,cursor,chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface,websocket,prettier,eslint,jest,jwt,hoppscotch,postman,apifox,swagger,powershell,bash,xshell,xftp,navicat,veracrypt,edge,chromium,canva,adobeillustrator,capcut,bing,replit,googledrive,googlecolaboratory,gmail,obs,steam,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge"  alt="skills"/></picture>
-</p>
+<h3>🌐 Frontend Languages, Libraries & Tools</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=typescript,javascript,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,canva,windowsappsdk,flutter,vite,pnpm,npm,esbuild,prettier,eslint,jest,edge,chromium"  alt="skills"/></picture>
+
+<h3>⚙️ Backend Languages, Libraries & Tools</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,kotlin,python,powershell,bash,rust,csharp,c,cpp,zig,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,nodejs,bun,gnu,maven,gradle,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,nginx,apache,jenkins,websocket,jwt,hoppscotch,postman,apifox,swagger,navicat"  alt="skills"/></picture>
+
+<h3>📝 IDEs & Editors</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus"  alt="skills"/></picture>
+
+<h3>🤖 AI</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface"  alt="skills"/></picture>
+
+<h3>☁️ Cloud Services & Infrastructure</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok"  alt="skills"/></picture>
+
+<h3>📦 Virtualization & Containers</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=podman,docker,vmware"  alt="skills"/></picture>
+
+<h3>💻 Operating Systems</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=windows,linux,ubuntu,debian,nixos"  alt="skills"/></picture>
+
+<h3>🔧 Tools</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=git,xshell,xftp,veracrypt"  alt="skills"/></picture>
+
+<h3>🧩 Others</h3>
+<picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=bing,steam,replit,googledrive,googlecolaboratory,gmail,obs,adobeillustrator,capcut,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge"  alt="skills"/></picture>
+
+<h6 align="center">
+  (Tip: Ranked by familiarity)
+</h6>
 
 </details>
 
 ---
 
 <details open>
-  <summary><h2 style="display: inline;">🐍 Contribution Activity</h2></summary>
+  <summary><h2>🐍 Contribution Activity</h2></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake-dark.svg">
@@ -61,7 +88,7 @@
 ---
 
 <details open>
-  <summary><h2 style="display: inline;">☕ Support My Work</h2></summary>
+  <summary><h2>☕ Support My Work</h2></summary>
 
 [![afdian](https://static.afdiancdn.com/static/img/logo/logo.png)](https://afdian.com/a/Me0wo)
 
