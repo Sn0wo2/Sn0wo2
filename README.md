@@ -7,7 +7,7 @@
 <h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
 <p align="center">
-  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=asoul&padding=5&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" width="200"  alt="count"/></picture>
+  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256"  alt="count"/></picture>
 </p>
 
 ---
