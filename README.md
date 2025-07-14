@@ -16,14 +16,15 @@
   <summary><h2>📊 GitHub Stats & Languages</h2></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=radical&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=16">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&theme=default&include_all_commits=true&count_private=true&show_icons=true&border_radius=16" width="50%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=ffffff&text_color=adbac7&bg_color=0d1117&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=287DD7&text_color=434d58&bg_color=ffffff&border_radius=16">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=287DD7&text_color=434d58&border_radius=16" width="50%" />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=radical&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&icon_color=58a6ff&title_color=ffffff&bg_color=0d1117&border_radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&theme=default&layout=compact&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16" width="50%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=ffffff&text_color=adbac7&bg_color=0d1117&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=287DD7&text_color=434d58&bg_color=ffffff&border_radius=16">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=287DD7&title_color=287DD7&text_color=434d58&border_radius=16" width="50%" />
 </picture>
 
 </details>
