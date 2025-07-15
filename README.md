@@ -44,47 +44,47 @@
 <details open>
   <summary><h2>🎯 Technical Proficiencies</h2></summary>
 
-<h3>⚙️ Backend Languages, Libraries & Tools</h3>
+<blockquote><h3>⚙️ Backend Languages, Libraries & Tools</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=golang,java,kotlin,python,powershell,bash,rust,csharp,c,cpp,zig,fiber,gin,gorm,springboot,expressjs,hono,fastapi,ktor,dotnet,grpc,nodejs,bun,gnu,maven,gradle,cmake,mysql,sqlite,postgresql,mongodb,oracle,redis,nginx,apache,jenkins,websocket,jwt,hoppscotch,postman,apifox,swagger,navicat" alt="skills"/></picture>
 </div>
 
-<h3>🌐 Frontend Languages, Libraries & Tools</h3>
+<blockquote><h3>🌐 Frontend Languages, Libraries & Tools</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=typescript,javascript,dart,markdown,yaml,json,html,sass,css3,css,svg,regex,latex,axios,chartjs,reactjs,reactrouter,nextjs,vuejs,vuepress,canva,windowsappsdk,flutter,vite,pnpm,npm,esbuild,prettier,eslint,jest,edge,chromium" alt="skills"/></picture>
 </div>
 
-<h3>☁️ Cloud Services & Infrastructure</h3>
+<blockquote><h3>☁️ Cloud Services & Infrastructure</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=cloudflare,vercel,serverless,github,githubactions,githubpages,googlecloud,ngrok" alt="skills"/></picture>
 </div>
 
-<h3>📝 IDEs & Editors</h3>
+<blockquote><h3>📝 IDEs & Editors</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus" alt="skills"/></picture>
 </div>
 
-<h3>🤖 AI</h3>
+<blockquote><h3>🤖 AI</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=chatgpt,deepseek,claudeai,googlegemini,githubcopilot,grok,microsoftcopilot,kaggle,huggingface" alt="skills"/></picture>
 </div>
 
-<h3>📦 Virtualization & Containers</h3>
+<blockquote><h3>📦 Virtualization & Containers</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=podman,docker,vmware" alt="skills"/></picture>
 </div>
 
-<h3>🔧 Tools</h3>
+<blockquote><h3>🔧 Tools</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=git,xshell,xftp,veracrypt" alt="skills"/></picture>
 </div>
 
-<h3>💻 Operating Systems</h3>
+<blockquote><h3>💻 Operating Systems</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=windows,linux,ubuntu,debian,nixos" alt="skills"/></picture>
 </div>
 
-<h3>🧩 Others</h3>
+<blockquote><h3>🧩 Others</h3></blockquote>
 <div style="width: 80%">
   <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=bing,steam,replit,googledrive,googlecolaboratory,gmail,obs,adobeillustrator,capcut,slack,stackoverflow,discord,youtube,x,twitter,telegram,curseforge" alt="skills"/></picture>
 </div>
