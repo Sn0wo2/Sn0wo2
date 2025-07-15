@@ -2,8 +2,6 @@
   <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=header" alt="waving"/></picture>
 </p>
 
-<picture><img src="https://char.me0wo.top/character" align="right" width="256"  alt="character"/></picture>
-
 <h1 align="center">✨ Meow~<br><sub>(〃＾▽＾〃)ฅ</sub></h1>
 
 <p align="center">
@@ -11,6 +9,8 @@
 </p>
 
 ---
+
+<picture><img src="https://char.me0wo.top/character" align="right" width="256"  alt="character"/></picture>
 
 <details open>
   <summary><h2>📊 GitHub Stats & Languages</h2></summary>
