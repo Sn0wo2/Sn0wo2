@@ -61,7 +61,7 @@
 
 <blockquote><h3>📝 IDEs & Editors</h3></blockquote>
 <div style="width: 80%">
-  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus" alt="skills"/></picture>
+  <picture><img src="https://skills.syvixor.com/api/icons?perline=25&radius=50&i=goland,intellijidea,webstorm,pycharm,windsurf,cline,trae,cursor,visualstudiocode,visualstudio,rider,clion,datagrip,androidstudio,vim,notepadplusplus" alt="skills"/></picture>
 </div>
 
 <blockquote><h3>🤖 AI</h3></blockquote>
