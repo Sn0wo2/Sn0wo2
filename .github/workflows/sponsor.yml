@@ -5,7 +5,7 @@ on:
     - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
-  
+
 jobs:
   generate:
     permissions:
@@ -27,7 +27,7 @@ jobs:
           mkdir -p dist
           cp afdian-sponsor.svg dist/afdian-sponsor.svg
 
-      - name: push afdian-sponsor-svg to the out/sponsor branch
+      - name: Push afdian-sponsor-svg to the out/sponsor branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: out/sponsor
