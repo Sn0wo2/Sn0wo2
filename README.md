@@ -113,7 +113,7 @@
 <details open>
   <summary><h2>☕ Support My Work</h2></summary>
 
-[![afdian](https://static.afdiancdn.com/static/img/logo/logo.png)](https://afdian.com/a/Me0wo)
+[![afdian-sponsor](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/Me0wo)
 
 </details>
 
