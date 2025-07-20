@@ -41,7 +41,7 @@
 
 ---
 
-<details open>
+<details>
   <summary><h2>🎯 Technical Proficiencies</h2></summary>
 
 <blockquote><h3>⚙️ Backend Languages, Libraries & Tools</h3></blockquote>
