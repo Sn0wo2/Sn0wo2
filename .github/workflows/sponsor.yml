@@ -28,5 +28,6 @@ jobs:
           target_branch: out/sponsor
           build_dir: .
           commit_message: "ci(sponsor): deploy"
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
