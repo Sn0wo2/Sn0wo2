@@ -21,13 +21,13 @@ jobs:
         env:
           AFDIAN_USER_ID: ${{ secrets.AFDIAN_USER_ID }}
           AFDIAN_API_TOKEN: ${{ secrets.AFDIAN_API_TOKEN }}
+          AFDIAN_OUTPUT: "./dist/afdian-sponsor.svg"
 
       - name: Push afdian-sponsor-svg to the out/sponsor branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: out/sponsor
-          build_dir: .
+          build_dir: dist
           commit_message: "ci(sponsor): deploy"
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
