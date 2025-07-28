@@ -16,6 +16,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir dist
+      
       - name: Run afdian-sponsor action
         uses: Sn0wo2/afdian-sponsor@v1
         env:
