@@ -32,17 +32,17 @@
 ---
 
 <details open>
-  <summary><h2>🔐 GPG Identity</h2></summary>
+  <summary><h2>🔐 GPG</h2></summary>
 
-- **Key ID**: `CD3A0F19D1FC2932`
 - **Fingerprint**: `F632A7DFE5A510ECDD977DA5CD3A0F19D1FC2932`
+- **Key ID**: `CD3A0F19D1FC2932`
 
 </details>
 
 ---
 
 <details open>
-  <summary><h2>🐍 Contribution Activity</h2></summary>
+  <summary><h2>🐍 Contribution Snake</h2></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake-dark.svg">
