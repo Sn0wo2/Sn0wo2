@@ -12,9 +12,6 @@
 
 <picture><img src="https://char.me0wo.top/character" align="right" width="256"  alt="character"/></picture>
 
-<details open>
-  <summary><h2>📊 GitHub Stats & Languages</h2></summary>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117&border_radius=16">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF&border_radius=16">
@@ -27,7 +24,6 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF&border_radius=16" width="50%" />
 </picture>
 
-</details>
 
 ---
 
@@ -36,19 +32,6 @@
 
 - **Fingerprint**: `F632A7DFE5A510ECDD977DA5CD3A0F19D1FC2932`
 - **Key ID**: `CD3A0F19D1FC2932`
-
-</details>
-
----
-
-<details open>
-  <summary><h2>🐍 Contribution Snake</h2></summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg">
-  <img alt="Snake" src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/snake/github-contribution-grid-snake.svg" />
-</picture>
 
 </details>
 
