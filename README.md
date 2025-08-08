@@ -28,10 +28,10 @@
 ---
 
 <details open>
-  <summary><h2>🔐 GPG</h2></summary>
+  <summary><h2>🔐 OpenGPG</h2></summary>
 
-- **Fingerprint**: `F632A7DFE5A510ECDD977DA5CD3A0F19D1FC2932`
-- **Key ID**: `CD3A0F19D1FC2932`
+- 🧷 **Fingerprint**: [`F632 A7DF E5A5 10EC DD97  7DA5 CD3A 0F19 D1FC 2932`](./assets/Me0wo_PublicKey.gpg)
+- 🆔 **Key ID**: `CD3A0F19D1FC2932`
 
 </details>
 
