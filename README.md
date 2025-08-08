@@ -47,7 +47,8 @@
 <details open>
   <summary><h2>📞 Contact</h2></summary>
 
-[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.top-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.top) ![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.top-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.top)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail.me0wo.top)
 
 </details>
 
