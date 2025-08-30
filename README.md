@@ -47,7 +47,8 @@
 <details open>
   <summary><h2>📞 Contact</h2></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.top-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.top)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.top-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.top) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FSn0wo2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FSn0wo2?ref=badge_shield)
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail.me0wo.top)
 
 </details>
@@ -55,3 +56,7 @@
 <p align="center">
   <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=footer" alt="waving"/></picture>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FSn0wo2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FSn0wo2?ref=badge_large)
