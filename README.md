@@ -10,7 +10,7 @@
 
 ---
 
-<picture><img src="https://char.me0wo.top/character" align="right" width="256"  alt="character"/></picture>
+<picture><img src="https://picker.me0wo.cc/character" align="right" width="256"  alt="character"/></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sn0wo2&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117&border_radius=16">
@@ -47,8 +47,8 @@
 <details open>
   <summary><h2>📞 Contact</h2></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.top-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.top)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail.me0wo.top)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.cc-blue?style=flat-square&logo=gmail)](mailto:mail.me0wo.cc)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail.me0wo.cc)
 
 </details>
 
