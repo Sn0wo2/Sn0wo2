@@ -30,8 +30,8 @@
 <details open>
   <summary><h2>🔐 OpenGPG</h2></summary>
 
-- 🧷 **Fingerprint**: [`F632 A7DF E5A5 10EC DD97  7DA5 CD3A 0F19 D1FC 2932`](./assets/Me0wo_PublicKey.gpg)
-- 🆔 **Key ID**: `CD3A0F19D1FC2932`
+- **Fingerprint**: [🧷`F632 A7DF E5A5 10EC DD97  7DA5 CD3A 0F19 D1FC 2932`](./assets/Me0wo_PublicKey.gpg)
+- **Key🆔**: `CD3A0F19D1FC2932`
 
 </details>
 
@@ -45,7 +45,7 @@
 </details>
 
 <details open>
-  <summary><h2>📞 Contact</h2></summary>
+  <summary><h2>📧 Contact</h2></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-mail%40me0wo.cc-blue?style=flat-square&logo=gmail)](mailto:mail@me0wo.cc)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/-No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail@me0wo.cc)
