@@ -30,8 +30,7 @@
 <details open>
   <summary><h2>🔐 OpenGPG</h2></summary>
 
-- **Fingerprint**: [🧷`F632 A7DF E5A5 10EC DD97  7DA5 CD3A 0F19 D1FC 2932`](./assets/Me0wo_PublicKey.gpg)
-- **Key🆔**: `CD3A0F19D1FC2932`
+- **Fingerprint**: [🧷F632 A7DF E5A5 10EC DD97  7DA5 **CD3A 0F19 D1FC 2932**](./assets/Me0wo_public.asc)
 
 </details>
 
