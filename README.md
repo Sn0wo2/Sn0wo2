@@ -24,9 +24,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF">
-  <img alt="Top Languages" src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF" width="50%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&langs_count=8&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&langs_count=8&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF">
+  <img alt="Top Languages" src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&layout=compact&langs_count=8&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=0969DA&title_color=287DD7&text_color=59636E&bg_color=FFFFFF" width="50%" />
 </picture>
 
 ---
