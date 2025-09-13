@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=header" alt="waving"/></picture>
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header" alt="waving"/></picture>
 </p>
 
 <h1 align="center">
@@ -58,5 +58,5 @@
 </details>
 
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&section=footer" alt="waving"/></picture>
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer" alt="waving"/></picture>
 </p>
