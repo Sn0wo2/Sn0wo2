@@ -15,7 +15,9 @@
 
 ---
 
-<picture><img src="https://picker.me0wo.cc/character" align="right" width="256"  alt="character"/></picture>
+<a href="https://github.com/Sn0wo2/character-picker" target="_blank">
+  <img src="https://picker.me0wo.cc/character" align="right" width="256" alt="character">
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api?username=Sn0wo2&include_all_commits=true&ring_color=0969DA&show=reviews%2Cprs_merged%2Cprs_merged_percentage&custom_title=%E3%80%8CGitHub%20Stats%E3%80%8D&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&border_radius=16&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117">
@@ -34,7 +36,10 @@
 <details open>
   <summary><h2>「OpenGPG」</h2></summary>
 
-- **Fingerprint**: [🧷F632 A7DF E5A5 10EC DD97  7DA5 **CD3A 0F19 D1FC 2932**](./assets/Me0wo_public.asc)
+- **Fingerprint**:
+  <a href="./assets/Me0wo_public.asc" target="_blank">
+  🧷F632 A7DF E5A5 10EC DD97 7DA5 <b>CD3A 0F19 D1FC 2932</b>
+  </a>
 
 </details>
 
@@ -43,7 +48,9 @@
 <details open>
   <summary><h2>「Support My Work」</h2></summary>
 
-[![](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/Me0wo)
+<a href="https://afdian.com/a/Me0wo" target="_blank">
+  <img src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg" alt="sponsor">
+</a>
 
 </details>
 
@@ -52,8 +59,14 @@
 <details open>
   <summary><h2>「Connect With Me」</h2></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Mail](https://img.shields.io/badge/%20-mail%40me0wo.cc-blue?style=flat-square&logo=gmail&logoColor=f5f5f5)](mailto:mail@me0wo.cc)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-lightgrey?style=flat-square)](mailto:mail@me0wo.cc)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mail@me0wo.cc" target="_blank">
+<img src="https://img.shields.io/badge/%20-mail%40me0wo.cc-blue?style=flat-square&logo=gmail&logoColor=f5f5f5" alt="Mail">
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mail@me0wo.cc" target="_blank">
+<img src="https://img.shields.io/badge/No%20Spam%20Please~-lightgrey?style=flat-square" alt="No Spam">
+</a>
 
 </details>
 
