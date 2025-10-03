@@ -46,7 +46,7 @@
 ---
 
 <details open>
-  <summary><h2>「Support My Work」</h2></summary>
+  <summary><h2>「Time Saved? Buy Me a ☕~」</h2></summary>
 
 <a href="https://afdian.com/a/Me0wo" target="_blank">
   <img src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg" alt="sponsor">
