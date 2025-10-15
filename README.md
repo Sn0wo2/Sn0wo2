@@ -80,9 +80,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=656C7633&color=9198A1&title_color=F0F6FC&line=238636&point=8957E5&area_color=41B883&area=true&theme=react-dark&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=818B981F&color=59636E&title_color=1F2328&line=1F883D&point=8250DF&area_color=41B883&area=true&theme=react&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=818B981F&color=59636E&title_color=1F2328&line=1F883D&point=8250DF&area_color=41B883&area=true&theme=react&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=656C7633&color=9198A1&title_color=F0F6FC&line=238636&point=8957E5&area_color=41B883&area=true&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D&theme=react-dark&radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=818B981F&color=59636E&title_color=1F2328&line=1F883D&point=8250DF&area_color=41B883&area=true&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D&theme=react&radius=16">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sn0wo2&bg_color=9CA3AF00&border_color=818B981F&color=59636E&title_color=1F2328&line=1F883D&point=8250DF&area_color=41B883&area=true&custom_title=%E3%80%8CContribution%20Graph%E3%80%8D&theme=react&radius=16" />
 </picture>
 
 <p align="center">
