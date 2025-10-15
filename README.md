@@ -59,20 +59,21 @@
 <details open>
   <summary><h2>「Connect With Me」</h2></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mail@me0wo.cc" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mail@me0wo.cc-0D1117?style=flat-square&logo=gmail&logoColor=4493F8">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mail@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
-<img alt="Mail" src="https://img.shields.io/badge/mail@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
-</picture>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mail@me0wo.cc" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mail@me0wo.cc-0D1117?style=flat-square&logo=gmail&logoColor=4493F8">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mail@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
+    <img alt="Mail" src="https://img.shields.io/badge/mail@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
+  </picture>
 </a>
 <a href="mailto:mail@me0wo.cc" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No Spam Please~-0D1117?style=flat-square">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
-<img alt="No Spam" src="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No Spam Please~-0D1117?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
+    <img alt="No Spam" src="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
+  </picture>
 </a>
 
 </details>
