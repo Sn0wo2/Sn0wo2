@@ -37,8 +37,8 @@
   <summary><h2>「OpenGPG」</h2></summary>
 
 - **Fingerprint**:
-  <a href="./assets/Me0wo_public.asc" target="_blank">
-  🧷F632 A7DF E5A5 10EC DD97 7DA5 <b>CD3A 0F19 D1FC 2932</b>
+  <a href="./assets/Me0wo(meow)_0x7F00A594_public.asc" target="_blank">
+  🧷3874 983B 82D8 1326 EA0F 4213 <b>56FD DE78 7F00 A594</b>
   </a>
 
 </details>
