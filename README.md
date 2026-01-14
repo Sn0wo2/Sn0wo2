@@ -60,7 +60,7 @@
   <summary><h2>「Connect With Me」</h2></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mail@me0wo.cc" target="_blank">
+<a href="mailto:public@me0wo.cc" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mail@me0wo.cc-151B23?style=flat-square&logo=gmail&logoColor=4493F8">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mail@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
