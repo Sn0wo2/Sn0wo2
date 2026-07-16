@@ -2,10 +2,8 @@
   <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header" alt="waving"/></picture>
 </p>
 
-<h1 align="center">
-<br>Nyaa~ 🐾<br>
-<sub>✨ Welcome!</sub>
-</h1>
+# <p align="center">Nyaa~ 🐾</p>
+### <p align="center">Ciallo～(∠・ω< )⌒★</p>
 
 ---
 
@@ -33,49 +31,27 @@
 
 ---
 
-<details open>
-  <summary><h2>「OpenGPG」</h2></summary>
+## 「OpenGPG」
 
 - **Fingerprint**:
-  <a href="./public/Me0wo(Ciallo~)_0x7F00A594_public.asc" target="_blank">
-  🧷3874 983B 82D8 1326 EA0F 4213 <b>56FD DE78 7F00 A594</b>
-  </a>
-
-</details>
+  [3874 983B 82D8 1326 EA0F 4213 **56FD DE78 7F00 A594**](./public/Me0wo(Ciallo~)_0x7F00A594_public.asc)
 
 ---
 
-<details open>
-  <summary><h2>「Time Saved? Buy Me a ☕~」</h2></summary>
+## 「Time Saved? Buy Me a ☕~」
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://afdian.com/a/Me0wo" target="_blank">
-  <img src="https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg" alt="sponsor">
-</a>
-
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![sponsor](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/Me0wo)
 
 ---
 
-<details open>
-  <summary><h2>「Connect With Me」</h2></summary>
+## 「Connect With Me」
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:public@me0wo.cc" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-151B23?style=flat-square&logo=gmail&logoColor=4493F8">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
-    <img alt="Mail" src="https://img.shields.io/badge/public@me0wo.c-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
-  </picture>
-</a>
-<a href="mailto:public@me0wo.cc" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No Spam Please~-151B23?style=flat-square">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
-    <img alt="No Spam" src="https://img.shields.io/badge/No Spam Please~-F6F8FA?style=flat-square">
-  </picture>
-</a>
+[![Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
+[![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square)](mailto:public@me0wo.cc)
 
-</details>
+> 我正在寻找一份合适的后端工作，如果你认为我合适请使用
+> [![Job Mail](https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:job@me0wo.cc)
+> 联系喵~
 
 ---
 
