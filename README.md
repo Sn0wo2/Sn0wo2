@@ -2,8 +2,19 @@
   <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header" alt="waving"/></picture>
 </p>
 
-# <p align="center">Nyaa~ 🐾</p>
-### <p align="center">Ciallo～(∠・ω< )⌒★</p>
+# <p align="center">Ciallo～(∠・ω< )⌒★</p>
+
+> <p align="center">
+>   <img src="https://img.shields.io/badge/You%20can%20call%20me-0wo-5BCEFA?style=flat" />
+>   <img src="https://img.shields.io/badge/Or%20call%20me-Cute%200wo-F5A9B8?style=flat" />
+>   <img src="https://img.shields.io/badge/Or%20even-Cute%200wo%20Meow~-FFFFFF?style=flat" />
+> </p>
+
+> <p align="center">
+>   <img src="https://img.shields.io/badge/你可以称呼我为-0wo-5BCEFA?style=flat" />
+>   <img src="https://img.shields.io/badge/也可以是-可爱0wo-F5A9B8?style=flat" />
+>   <img src="https://img.shields.io/badge/还可以是-可爱0wo喵~-FFFFFF?style=flat" />
+> </p>
 
 ---
 
@@ -48,6 +59,10 @@
 
 [![Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
 [![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square)](mailto:public@me0wo.cc)
+
+> I'm currently looking for a suitable backend development position. If you think I'm a good fit, please contact me via
+> [![Job Mail](https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:job@me0wo.cc)
+> ~
 
 > 我正在寻找一份合适的后端工作，如果你认为我合适请使用
 > [![Job Mail](https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:job@me0wo.cc)
