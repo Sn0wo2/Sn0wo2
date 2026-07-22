@@ -7,12 +7,6 @@
 </h1>
 
 > <p align="center">
->   <img src="https://img.shields.io/badge/You%20can%20call%20me-0wo-5BCEFA?style=flat" />
->   <img src="https://img.shields.io/badge/Or%20call%20me-Cute%200wo-F5A9B8?style=flat" />
->   <img src="https://img.shields.io/badge/Or%20even-Cute%200wo%20Meow~-FFFFFF?style=flat" />
-> </p>
-
-> <p align="center">
 >   <img src="https://img.shields.io/badge/你可以称呼我为-0wo-5BCEFA?style=flat" />
 >   <img src="https://img.shields.io/badge/也可以是-可爱0wo-F5A9B8?style=flat" />
 >   <img src="https://img.shields.io/badge/还可以是-可爱0wo喵~-FFFFFF?style=flat" />
