@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256"  alt="count"/></picture>
+  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256" alt="count"/></picture>
 </p>
 
 ---
@@ -56,13 +56,20 @@
 [![Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
 [![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square)](mailto:public@me0wo.cc)
 
-> I'm currently looking for a suitable backend development position. If you think I'm a good fit, please contact me via
-> [![Job Mail](https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:job@me0wo.cc)
-> ~
-
-> 我正在寻找一份合适的后端工作，如果你认为我合适请使用
-> [![Job Mail](https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:job@me0wo.cc)
-> 联系喵~
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      我正在寻找一份合适的后端工作，如果你认为我合适，欢迎联系喵~
+      <br/><br/>
+      <a href="mailto:job@me0wo.cc"><img src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA" alt="Job Mail"/></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      I'm currently looking for a suitable backend position. If you think I'm a good fit, feel free to reach out!
+      <br/><br/>
+      <a href="mailto:job@me0wo.cc"><img src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA" alt="Job Mail"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
