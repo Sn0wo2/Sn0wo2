@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω< )⌒★" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω< )⌒★" />
 </h1>
 
 > <p align="center">
