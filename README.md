@@ -2,7 +2,9 @@
   <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header" alt="waving"/></picture>
 </p>
 
-# <p align="center">Ciallo～(∠・ω< )⌒★</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω< )⌒★" />
+</h1>
 
 > <p align="center">
 >   <img src="https://img.shields.io/badge/You%20can%20call%20me-0wo-5BCEFA?style=flat" />
@@ -45,7 +47,7 @@
 ## 「OpenGPG」
 
 - **Fingerprint**:
-  [3874 983B 82D8 1326 EA0F 4213 **56FD DE78 7F00 A594**](./public/Me0wo(Ciallo~)_0x7F00A594_public.asc)
+  [3874 983B 82D8 1326 EA0F 4213 **56FD DE78 7F00 A594**](<./public/Me0wo(Ciallo~)_0x7F00A594_public.asc>)
 
 ---
 
