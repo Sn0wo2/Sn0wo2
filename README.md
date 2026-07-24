@@ -1,5 +1,17 @@
+<!--
+
+嗯哼? 被抓住了~
+如果要借鉴的话请遵守LICENSE哦~
+
+-->
+<!--
+
+Oho? You caught me~
+If you want to take inspiration, please respect the LICENSE~
+
+-->
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header" alt="waving"/></picture>
+  <picture><img alt="Waving Header" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header"/></picture>
 </p>
 
 <h1 align="center">
@@ -7,21 +19,21 @@
 </h1>
 
 > <p align="center">
->   <img src="https://img.shields.io/badge/你可以这么称呼我:-0wo-5BCEFA?style=flat" />
->   <img src="https://img.shields.io/badge/也可以是-可爱0wo-F5A9B8?style=flat" />
->   <img src="https://img.shields.io/badge/还可以是-可爱0wo喵~-FFFFFF?style=flat" />
+>   <img alt="You can call me 0wo" src="https://img.shields.io/badge/你可以这么称呼我:-0wo-5BCEFA?style=flat-square" />
+>   <img alt="Also known as Kawaii 0wo" src="https://img.shields.io/badge/也可以是-可爱0wo-F5A9B8?style=flat-square" />
+>   <img alt="Or even Kawaii 0wo~" src="https://img.shields.io/badge/还可以是-可爱0wo喵~-FFFFFF?style=flat-square" />
 > </p>
 
 ---
 
 <p align="center">
-  <picture><img src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256" alt="count"/></picture>
+  <picture><img alt="Count of visitors" src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256"/></picture>
 </p>
 
 ---
 
 <a href="https://github.com/Sn0wo2/character-picker" target="_blank">
-  <img src="https://picker.me0wo.cc/character" align="right" width="256" alt="character">
+  <img alt="character picker" src="https://picker.me0wo.cc/character" align="right" width="256">
 </a>
 
 <picture>
@@ -47,13 +59,13 @@
 
 ## 「Time Saved? Buy Me a ☕~」
 
-[![sponsor](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/Me0wo)
+[![Sponsor](https://github.com/Sn0wo2/Sn0wo2/raw/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/Me0wo)
 
 ---
 
 ## 「Connect With Me」
 
-[![Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
+[![Public Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
 [![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square)](mailto:public@me0wo.cc)
 
 <table width="100%">
@@ -80,5 +92,5 @@
 </picture>
 
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer" alt="waving"/></picture>
+  <picture><img alt="Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/></picture>
 </p>
