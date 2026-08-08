@@ -15,7 +15,7 @@ If you want to take inspiration, please respect the LICENSE~
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=JetBrains+Mono&weight=500&size=25&duration=3500&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&lines=%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="𝐂𝐢𝐚𝐥𝐥𝐨～(∠・ω< )⌒★" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3500&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="𝐂𝐢𝐚𝐥𝐥𝐨～(∠・ω< )⌒★" />
 </h1>
 
 > <p align="center">
