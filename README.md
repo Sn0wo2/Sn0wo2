@@ -64,20 +64,55 @@ If you want to take inspiration, please respect the LICENSE~
 
 ## 「𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞」
 
-[![Public Mail](https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA)](mailto:public@me0wo.cc)
-[![No Spam](https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square)](mailto:public@me0wo.cc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=58A6FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
+  <img alt="Public Mail" src="https://img.shields.io/badge/public@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/No%20Spam%20Please~-161B22?style=flat-square&labelColor=161B22">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square&labelColor=F6F8FA">
+  <img
+    alt="No Spam Please"
+    src="https://img.shields.io/badge/No%20Spam%20Please~-F6F8FA?style=flat-square&labelColor=F6F8FA">
+</picture>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
       我正在寻找一份合适的后端工作，如果你认为我合适，欢迎联系喵~
       <br/><br/>
-      <a href="mailto:job@me0wo.cc"><img src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA" alt="Job Mail"/></a>
+      <a href="mailto:job@me0wo.cc"><picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://img.shields.io/badge/job@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=161B22">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA&labelColor=F6F8FA">
+  <img 
+    alt="Job Mail" 
+    src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA&labelColor=F6F8FA">
+</picture></a>
     </td>
     <td width="50%" align="center" valign="middle">
       𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟 𝑎 𝑠𝑢𝑖𝑡𝑎𝑏𝑙𝑒 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑝𝑜𝑠𝑖𝑡𝑖𝑜𝑛. 𝐼𝑓 𝑦𝑜𝑢 𝑡ℎ𝑖𝑛𝑘 𝐼'𝑚 𝑎 𝑔𝑜𝑜𝑑 𝑓𝑖𝑡, 𝑓𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑜𝑢𝑡!
       <br/><br/>
-      <a href="mailto:job@me0wo.cc"><img src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA" alt="Job Mail"/></a>
+      <a href="mailto:job@me0wo.cc"><picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://img.shields.io/badge/job@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=161B22">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA&labelColor=F6F8FA">
+  <img 
+    alt="Job Mail" 
+    src="https://img.shields.io/badge/job@me0wo.cc-F6F8FA?style=flat-square&logo=gmail&logoColor=0969DA&labelColor=F6F8FA">
+</picture></a>
     </td>
   </tr>
 </table>
