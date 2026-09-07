@@ -86,7 +86,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      我正在寻找一份合适的后端工作，如果你认为我合适，欢迎联系喵~
+      <em>我正在寻找一份合适的后端工作，如果你认为我合适，欢迎联系喵~</em>
       <br/><br/>
       <a href="mailto:job@me0wo.cc"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=F5A9B8&labelColor=161B22">
