@@ -1,0 +1,68 @@
+name: Activity Graph Generation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-graph.yml"
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate dark activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/activity-graph-dark.svg
+          options: >-
+            {"bg_color":"FFFFFF00","border_color":"F5A9B866","color":"FFFFFF","title_color":"F5A9B8","line":"5BCEFA","point":"F5A9B8","area_color":"5BCEFA","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
+
+      - name: Generate light activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/activity-graph-light.svg
+          options: >-
+            {"bg_color":"FFFFFF00","border_color":"F5A9B8","color":"59636E","title_color":"1F2328","line":"5BCEFA","point":"F5A9B8","area_color":"5BCEFA","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
+
+      - name: Validate generated SVGs
+        run: |
+          python - <<'PY'
+          import sys
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          for filename in ("activity-graph-dark.svg", "activity-graph-light.svg"):
+              path = Path("dist") / filename
+              try:
+                  root = ET.fromstring(path.read_text(encoding="utf-8"))
+              except (OSError, ET.ParseError) as error:
+                  print(f"Invalid generated SVG {path}: {error}", file=sys.stderr)
+                  sys.exit(1)
+              if root.tag.rsplit("}", 1)[-1] != "svg":
+                  print(f"Generated file is not an SVG: {path}", file=sys.stderr)
+                  sys.exit(1)
+          PY
+
+      - name: Push activity-graph SVGs to the out/activity-graph branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: out/activity-graph
+          build_dir: dist
+          commit_message: "ci(activity-graph): deploy"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
