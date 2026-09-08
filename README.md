@@ -35,6 +35,8 @@
   <picture><img alt="「Profile Views · Sn0wo2」" src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256"/></picture>
 </p>
 
+---
+
 <a href="https://github.com/Sn0wo2/character-picker" target="_blank">
   <img alt="「Character Picker」" src="https://picker.me0wo.cc/character" align="right" width="256">
 </a>
