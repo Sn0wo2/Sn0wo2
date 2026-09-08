@@ -13,31 +13,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3500&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω&lt; )⌒★" />
 </h1>
 
-> <p align="center">
->   <picture>
->     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=161B22">
->     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA">
->     <img alt="You can call me 𝟎𝒘𝒐" src="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA" />
->   </picture>
->   <picture>
->     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=161B22">
->     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA">
->     <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA" />
->   </picture>
->   <picture>
->     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=161B22">
->     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA">
->     <img alt="Or even Kawaii 𝟎𝒘𝒐-chan~" src="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA" />
->   </picture>
-> </p>
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=161B22">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA">
+    <img alt="You can call me 𝟎𝒘𝒐" src="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=161B22">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA">
+    <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=161B22">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA">
+    <img alt="Or even Kawaii 𝟎𝒘𝒐-chan~" src="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA" />
+  </picture>
+</p>
 
 <p align="center">
   <picture><img alt="「Profile Views · Sn0wo2」" src="https://count.getloli.com/@Sn0wo2?name=Sn0wo2&theme=rule34&padding=5&offset=0&align=center&scale=1.5&pixelated=0&darkmode=auto" width="256"/></picture>
 </p>
-
----
 
 <a href="https://github.com/Sn0wo2/character-picker" target="_blank">
   <img alt="「Character Picker」" src="https://picker.me0wo.cc/character" align="right" width="256">
