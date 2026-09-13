@@ -42,15 +42,15 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api?username=Sn0wo2&title_color=F5A9B8&text_color=FFFFFF&icon_color=5BCEFA&border_color=F5A9B866&theme=transparent&border_radius=16&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=%E3%80%8C%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B%20%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%E3%80%8D&show=reviews%2Cprs_merged%2Cprs_merged_percentage">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.me0wo.cc/api?username=Sn0wo2&title_color=1F2328&text_color=59636E&icon_color=5BCEFA&border_color=F5A9B8&theme=transparent&border_radius=16&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=%E3%80%8C%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B%20%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%E3%80%8D&show=reviews%2Cprs_merged%2Cprs_merged_percentage">
-  <img alt="「GitHub Stats · Sn0wo2」" src="https://github-readme-stats.me0wo.cc/api?username=Sn0wo2&title_color=1F2328&text_color=59636E&icon_color=5BCEFA&border_color=F5A9B8&theme=transparent&border_radius=16&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=%E3%80%8C%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B%20%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%E3%80%8D&show=reviews%2Cprs_merged%2Cprs_merged_percentage" width="50%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/github-stats-light.svg">
+  <img alt="「GitHub Stats · Sn0wo2」" src="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/github-stats-light.svg" width="50%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&title_color=F5A9B8&text_color=FFFFFF&icon_color=5BCEFA&border_color=F5A9B866&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8C%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%20%F0%9D%90%94%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AC%E3%80%8D&show_icons=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&title_color=1F2328&text_color=59636E&icon_color=5BCEFA&border_color=F5A9B8&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8C%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%20%F0%9D%90%94%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AC%E3%80%8D&show_icons=true">
-  <img alt="「Most Used Languages」" src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=Sn0wo2&title_color=1F2328&text_color=59636E&icon_color=5BCEFA&border_color=F5A9B8&theme=transparent&border_radius=16&layout=compact&langs_count=8&custom_title=%E3%80%8C%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%20%F0%9D%90%94%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AC%E3%80%8D&show_icons=true" width="50%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/top-langs-light.svg">
+  <img alt="「Most Used Languages」" src="https://raw.githubusercontent.com/Sn0wo2/Sn0wo2/refs/heads/out/github-stats/top-langs-light.svg" width="50%" />
 </picture>
 
 ---
