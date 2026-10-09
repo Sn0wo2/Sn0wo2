@@ -57,7 +57,13 @@
 
 ## 「𝐎𝐩𝐞𝐧𝐆𝐏𝐆」
 
-- [2BE7 6999 6799 CF48 F4AC  AA84 **6262 D233 3333 3333**](<./assets/gpg/2BE769996799CF48F4ACAA846262D23333333333.asc>)
+- [2BE7 6999 6799 CF48 F4AC  AA84 **6262 D233 3333 3333**](https://github.com/Sn0wo2.gpg)
+
+---
+
+## 「𝐎𝐩𝐞𝐧SSH」
+
+- [`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxyo/9DtVNl0DHREKELXD6EJCvnzh/ezUYuipPMe0wo`](https://github.com/Sn0wo2.keys)
 
 ---
 
