@@ -61,7 +61,7 @@
 
 ---
 
-## 「𝐎𝐩𝐞𝐧SSH」
+## 「𝐎𝐩𝐞𝐧𝐒𝐒𝐇」
 
 - [`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxyo/9DtVNl0DHREKELXD6EJCvnzh/ezUYuipPMe0wo`](https://github.com/Sn0wo2.keys)
 
