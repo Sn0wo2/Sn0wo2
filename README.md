@@ -6,7 +6,7 @@
 -->
 <html lang="zh-Hans">
 <p align="center">
-  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D97757,25:30302E,50:FAF9F5,75:30302E,100:D97757&section=header"/></picture>
+  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30302E,50:141413,100:30302E&section=header"/></picture>
 </p>
 
 <h1 align="center">
@@ -20,9 +20,9 @@
     <img alt="You can call me 𝟎𝒘𝒐" src="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-D97757?style=flat-square&labelColor=F5F4ED" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-DC8467?style=flat-square&labelColor=242422">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-A34F36?style=flat-square&labelColor=F5F4ED">
-    <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-A34F36?style=flat-square&labelColor=F5F4ED" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-E8E6DC?style=flat-square&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-30302E?style=flat-square&labelColor=F5F4ED">
+    <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-30302E?style=flat-square&labelColor=F5F4ED" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FAF9F5?style=flat-square&labelColor=242422">
@@ -77,8 +77,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=D97757&labelColor=242422">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757">
-  <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC">
+  <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC" />
 </picture>
 
 <picture>
@@ -94,8 +94,8 @@
       <br/><br/>
       <a href="mailto:job@me0wo.cc"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=DC8467&labelColor=242422">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C">
-        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757">
+        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757" />
       </picture></a>
     </td>
     <td width="50%" align="center" valign="middle">
@@ -103,8 +103,8 @@
       <br/><br/>
       <a href="mailto:job@me0wo.cc"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=DC8467&labelColor=242422">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C">
-        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757">
+        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757" />
       </picture></a>
     </td>
   </tr>
@@ -119,7 +119,7 @@
 </picture>
 
 <p align="center">
-  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D97757,25:30302E,50:FAF9F5,75:30302E,100:D97757&section=footer"/></picture>
+  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30302E,50:141413,100:30302E&section=footer"/></picture>
 </p>
 
 <p align="right"><sub>Design by clay-ink</sub></p>
