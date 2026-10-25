@@ -29,7 +29,7 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: dist/activity-graph-dark.svg
           options: >-
-            {"bg_color":"FFFFFF00","border_color":"F5A9B866","color":"FFFFFF","title_color":"F5A9B8","line":"5BCEFA","point":"F5A9B8","area_color":"5BCEFA","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
+            {"bg_color":"FFFFFF00","border_color":"D9775766","color":"FAF9F5","title_color":"DC8467","line":"D97757","point":"DF896C","area_color":"D97757","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
 
       - name: Generate light activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
@@ -37,7 +37,7 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: dist/activity-graph-light.svg
           options: >-
-            {"bg_color":"FFFFFF00","border_color":"F5A9B8","color":"59636E","title_color":"1F2328","line":"5BCEFA","point":"F5A9B8","area_color":"5BCEFA","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
+            {"bg_color":"FFFFFF00","border_color":"D97757","color":"6F6E68","title_color":"141413","line":"D97757","point":"CA6849","area_color":"D97757","area":true,"custom_title":"「𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡」","radius":16}
 
       - name: Validate generated SVGs
         run: |

@@ -6,28 +6,28 @@
 -->
 <html lang="zh-Hans">
 <p align="center">
-  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5BCEFA,25:F5A9B8,50:FFFFFF,75:F5A9B8,100:5BCEFA&section=header"/></picture>
+  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D97757,25:30302E,50:FAF9F5,75:30302E,100:D97757&section=header"/></picture>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3500&pause=1000&color=F5A9B8&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω&lt; )⌒★" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3500&pause=1000&color=D97757&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Ciallo～(∠・ω&lt; )⌒★" />
 </h1>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=161B22">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA">
-    <img alt="You can call me 𝟎𝒘𝒐" src="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-5BCEFA?style=flat-square&labelColor=F6F8FA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-D97757?style=flat-square&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-D97757?style=flat-square&labelColor=F5F4ED">
+    <img alt="You can call me 𝟎𝒘𝒐" src="https://img.shields.io/badge/你可以这么称呼我:-𝟎𝒘𝒐-D97757?style=flat-square&labelColor=F5F4ED" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=161B22">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA">
-    <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-F5A9B8?style=flat-square&labelColor=F6F8FA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-DC8467?style=flat-square&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-A34F36?style=flat-square&labelColor=F5F4ED">
+    <img alt="Also known as Kawaii 𝟎𝒘𝒐" src="https://img.shields.io/badge/也可以是-可爱𝟎𝒘𝒐-A34F36?style=flat-square&labelColor=F5F4ED" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=161B22">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA">
-    <img alt="Or even Kawaii 𝟎𝒘𝒐-chan~" src="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FFFFFF?style=flat-square&labelColor=F6F8FA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-FAF9F5?style=flat-square&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-E8E6DC?style=flat-square&labelColor=F5F4ED">
+    <img alt="Or even Kawaii 𝟎𝒘𝒐-chan~" src="https://img.shields.io/badge/还可以是-可爱𝟎𝒘𝒐喵~-E8E6DC?style=flat-square&labelColor=F5F4ED" />
   </picture>
 </p>
 
@@ -76,15 +76,15 @@
 ## 「𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞」
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=5BCEFA&labelColor=161B22">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-5BCEFA?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=5BCEFA">
-  <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-5BCEFA?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=5BCEFA" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=D97757&labelColor=242422">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757">
+  <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-D97757?style=flat-square&logo=gmail&logoColor=141413&labelColor=D97757" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-161B22?style=flat-square&labelColor=161B22">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-FFFFFF?style=flat-square&labelColor=FFFFFF">
-  <img alt="No Spam Please~" src="https://img.shields.io/badge/No%20Spam%20Please~-FFFFFF?style=flat-square&labelColor=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-242422?style=flat-square&labelColor=242422">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC">
+  <img alt="No Spam Please~" src="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC" />
 </picture>
 
 <table width="100%">
@@ -93,18 +93,18 @@
       <em>我正在寻找一份合适的后端工作，如果你认为我合适，欢迎联系喵~</em>
       <br/><br/>
       <a href="mailto:job@me0wo.cc"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=F5A9B8&labelColor=161B22">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-F5A9B8?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=F5A9B8">
-        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-F5A9B8?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=F5A9B8" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=DC8467&labelColor=242422">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C">
+        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C" />
       </picture></a>
     </td>
     <td width="50%" align="center" valign="middle">
       𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟 𝑎 𝑠𝑢𝑖𝑡𝑎𝑏𝑙𝑒 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑝𝑜𝑠𝑖𝑡𝑖𝑜𝑛. 𝐼𝑓 𝑦𝑜𝑢 𝑡ℎ𝑖𝑛𝑘 𝐼'𝑚 𝑎 𝑔𝑜𝑜𝑑 𝑓𝑖𝑡, 𝑓𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑜𝑢𝑡!
       <br/><br/>
       <a href="mailto:job@me0wo.cc"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-161B22?style=flat-square&logo=gmail&logoColor=F5A9B8&labelColor=161B22">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-F5A9B8?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=F5A9B8">
-        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-F5A9B8?style=flat-square&logo=gmail&logoColor=1F2328&labelColor=F5A9B8" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/job@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=DC8467&labelColor=242422">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C">
+        <img alt="job@me0wo.cc" src="https://img.shields.io/badge/job@me0wo.cc-DF896C?style=flat-square&logo=gmail&logoColor=141413&labelColor=DF896C" />
       </picture></a>
     </td>
   </tr>
@@ -119,5 +119,7 @@
 </picture>
 
 <p align="center">
-  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5BCEFA,25:F5A9B8,50:FFFFFF,75:F5A9B8,100:5BCEFA&section=footer"/></picture>
+  <picture><img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D97757,25:30302E,50:FAF9F5,75:30302E,100:D97757&section=footer"/></picture>
 </p>
+
+<p align="right"><sub>Design by clay-ink</sub></p>
