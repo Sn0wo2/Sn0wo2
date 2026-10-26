@@ -55,15 +55,10 @@
 
 ---
 
-## 「𝐎𝐩𝐞𝐧𝐆𝐏𝐆」
+## 「𝐊𝐞𝐲𝐬」
 
-- [2BE7 6999 6799 CF48 F4AC  AA84 **6262 D233 3333 3333**](https://github.com/Sn0wo2.gpg)
-
----
-
-## 「𝐎𝐩𝐞𝐧𝐒𝐒𝐇」
-
-- [`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxyo/9DtVNl0DHREKELXD6EJCvnzh/ezUYuipPMe0wo`](https://github.com/Sn0wo2.keys)
+- **OpenPGP**: [2BE7 6999 6799 CF48 F4AC  AA84 **6262 D233 3333 3333**](https://github.com/Sn0wo2.gpg)
+- **OpenSSH**: [`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxyo/9DtVNl0DHREKELXD6EJCvnzh/ezUYuipPMe0wo`](https://github.com/Sn0wo2.keys)
 
 ---
 
@@ -75,17 +70,18 @@
 
 ## 「𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞」
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=D97757&labelColor=242422">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC">
-  <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-242422?style=flat-square&labelColor=242422">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC">
-  <img alt="No Spam Please~" src="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/public@me0wo.cc-242422?style=flat-square&logo=gmail&logoColor=D97757&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC">
+    <img alt="public@me0wo.cc" src="https://img.shields.io/badge/public@me0wo.cc-E8E6DC?style=flat-square&logo=gmail&logoColor=A34F36&labelColor=E8E6DC" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-242422?style=flat-square&labelColor=242422">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC">
+    <img alt="No Spam Please~" src="https://img.shields.io/badge/No%20Spam%20Please~-E8E6DC?style=flat-square&labelColor=E8E6DC" />
+  </picture>
+</p>
 
 <table width="100%">
   <tr>
