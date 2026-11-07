@@ -5,8 +5,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:242422,50:141413,100:3F6E69&section=footer" />
-    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F5F4ED,50:E8E6DC,100:8A9A78&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:242422,50:141413,100:3F6E69&section=header" />
+    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F5F4ED,50:E8E6DC,100:8A9A78&section=header" />
   </picture>
 </p>
 
